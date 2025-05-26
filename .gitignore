@@ -1,4 +1,4 @@
-# Unity generated folders
+#  Unity Generated Folders 
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -6,13 +6,27 @@
 [Bb]uilds/
 [Ll]ogs/
 [Uu]serSettings/
+MemoryCaptures/
+.crash/
+
+#  Unity Project Settings
 ProjectSettings/EditorBuildSettings.asset
 
-# Packages and caches
+#  Unity Default Assets to Ignore
+Assets/TutorialInfo/
+Assets/TutorialInfo.meta
+Assets/Readme.asset
+Assets/Readme.asset.meta
+Assets/InputSystem_Actions.inputactions
+Assets/InputSystem_Actions.inputactions.meta
+Assets/Settings/
+Assets/Settings.meta
+
+#  Packages and Cache
 [Pp]ackages/
 Assets/AssetStoreTools*
 
-# Visual Studio files
+#  VS Code 
 .vs/
 .vscode/
 *.sln
@@ -25,6 +39,13 @@ Assets/AssetStoreTools*
 *.booproj
 *.svd
 
-# OS generated files
+#  OS-generated files 
 .DS_Store
 Thumbs.db
+
+# Unity Collaborate
+.collab/
+
+#  JetBrains Rider 
+.idea/
+*.sln.iml
